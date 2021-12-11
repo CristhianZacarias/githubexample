@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!--<link rel="stylesheet" href="estilos.css" />-->
+   <!-- <link rel="stylesheet" href="estilos2.css" />-->
+
+   <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+        integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous" />  --> 
+    <title>Tarea 3 service-worker</title>
+</head>
+<body>
+    <div class="container-fluid col-md-12">
+        <div class="row bg-secondary   my-5 id="contenedor">
+            <div class="container col-md-6 my-5">
+                <div class="card-body" id="tarjeta">
+                    <div class="conatiner mt-3">
+                       <!-- <img src="img/tic.png" class="mx-auto d-block img-fluid" alt="foto" width="150" height="350" id="imagen2"> -->
+
+                    </div>
+                    <div class="container mt-3">
+                       <!-- <img src="img/utvt2.png" class="mx-auto d-block img-fluid" alt="foto" width="150" height="150" id="imagen2"> -->
+
+                    </div>
+                </div>
+            </div>
+            <div class="container col-md-6 my-5">
+                <div class="card-body" id="principal">
+                   <!-- <img src="img/alumno.png" class="mx-auto d-block img-fluid" alt="foto" width="150" height="150"> -->
+                    <p class="card-title my-2" id="oblique"><strong class="nombre">Nombres:</strong> Omar Chong Lopez en modo offline
+                    </p>
+                    <p class="card-text" id="oblique"><strong class="nombre">Grupo:</strong> IDGS102.</p>
+                    <p class="card-text" id="oblique"><strong class="nombre">Carrera:</strong> Ingenieria en desarrollo
+                        y
+                        gestion de software.</p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<!--<script src="js/app.js"></script> -->
+
+</html>

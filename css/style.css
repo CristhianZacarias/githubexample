@@ -1,0 +1,68 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+.contenedor1{
+    background-color:#6326f0;
+    padding: 15px;
+    margin: 15px;
+    margin-right: 110px;
+    margin-left: 110px;
+    width: 910px;
+    height: 520px;
+}
+.contenedor2{
+  background-color:#26f0a3;
+  padding: 15px;
+  margin: 15px;
+  margin-right: 110px;
+  margin-left: 20px;
+  width: 400px;
+  height: 450px;
+}
+
+.contenedor3{
+  background-color:#f02626;
+  padding: 15px;
+  margin: 15px;
+  margin-top: -460px;
+  margin-left: 450px;
+  width: 400px;
+  height: 450px;
+}
+
+.main{
+  margin: auto;
+  width: 180px;
+  height: 190px;
+  margin-top: 15px;
+  margin-left: 80px;
+}
+.mascara{
+  margin: auto;
+  width: 330px;
+  height: 200px;
+  margin-top: 15px;
+  margin-left: 20px;
+}
+.alumno1{
+  margin: auto;
+  width: 170px;
+  height: 130px;
+  margin-top: 15px;
+  margin-left: 100px;
+}
+h1,h2,h3,h4,h5 {
+    color: white;
+}
+
+hr {
+    background-color: white;
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+
